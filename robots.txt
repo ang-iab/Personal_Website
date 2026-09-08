@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ang-iab.github.io/al-folio/sitemap.xml
+Sitemap: https://ang-iab.github.io/sitemap.xml
