@@ -3,7 +3,10 @@ layout: about
 title: about
 permalink: /
 subtitle: Applied & Computational Mathematics · University of Southern California
-profile: false
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false
 selected_papers: true
 social: true
 announcements:
