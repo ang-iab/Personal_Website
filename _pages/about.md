@@ -21,6 +21,4 @@ I am a research assistant in USC’s **Physical Superintelligence Lab**, where I
 
 My research spans visual reasoning tasks such as object recognition, attributes, spatial relationships, counting, and negation. I am interested in how models generalize after targeted repair and how we can make their behavior more reliable.
 
-Previously, I worked at the **Laboratory of Microfabrication, Institute of Physics, Chinese Academy of Sciences**, supporting microelectronic fabrication for terahertz communication devices and low-temperature quantum transport experiments.
-
 Explore my [research]({{ '/research/' | relative_url }}), [publications]({{ '/publications/' | relative_url }}), and [CV]({{ '/cv/' | relative_url }}).
