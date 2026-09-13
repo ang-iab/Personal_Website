@@ -66,7 +66,7 @@ cv:
           - Yue Wang
         publisher: IROS 2026 AI Meets Autonomy Workshop
         releaseDate: "2026"
-        summary: Yanru Wu, Weiduo Yuan, Ang Qi, Vitor Guizilini, Jiageng Mao, Yue Wang.
+        summary: Yanru Wu, Weiduo Yuan, Ang Qi, Vitor Guizilini, Jiageng Mao, Yue Wang
       - title: "FuzzingRL: Reinforcement Fuzz-Testing for Revealing VLM Failures"
         authors:
           - Jiajun Xu
@@ -77,8 +77,10 @@ cv:
           - Helen Xia
           - Vitor Campagnolo Guizilini
           - Yue Wang
+        publisher: In Submission
+        releaseDate: "2026"
         summary: Jiajun Xu, Jiageng Mao, Ang Qi, Weiduo Yuan, Alexander Romanus, Helen
-          Xia, Vitor Campagnolo Guizilini, Yue Wang. Under Review
+          Xia, Vitor Campagnolo Guizilini, Yue Wang
     Selected Coursework:
       - label: Mathematics
         details: "MATH-226: Calculus III; MATH-225: Linear Algebra and Linear Differential
