@@ -9,14 +9,14 @@ cv:
   sections:
     Education:
       - institution: University of Southern California
-        location: Los Angeles, CA, United States
+        location: Los Angeles, CA, U.S.
         area: Applied and Computational Mathematics
         studyType: Bachelor of Science
         start_date: 2024-08
         end_date: 2027-05
         highlights:
-          - "Expected graduation: May 2027."
-          - "Minor: Computer Science."
+          - "Expected graduation: May 2027"
+          - "Minor: Computer Science"
           - "GPA: 3.76/4.00."
       - institution: Beijing Royal School
         location: Beijing, China
@@ -24,8 +24,8 @@ cv:
         start_date: 2021-09
         end_date: 2024-05
         highlights:
-          - "Unweighted GPA: 4.19/4.33 (Top 3%)."
-          - "Weighted GPA: 4.74/5.0 (Top 3%)."
+          - "Unweighted GPA: 4.19/4.33 (Top 3%)"
+          - "Weighted GPA: 4.74/5.0 (Top 3%)"
     Experience:
       - company: Physical Superintelligence Lab, University of Southern California
         position: Research Assistant
